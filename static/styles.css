@@ -1,0 +1,86 @@
+.nav-link {
+    color: #0b5383;
+}
+
+.btn-outline-primary {
+    color: #0b5383; /* Text color */
+    border-color: #0b5383; /* Border color */
+}
+  
+.btn-outline-primary:hover {
+    background-color: #0b5383; /* Background color on hover */
+    border-color: #0b5383;
+    color: #fff; /* Text color on hover */
+}
+  
+/* Custom style for the primary button */
+.btn-primary {
+    background-color: #0b5383; /* Background color */
+    border-color: #0b5383; /* Border color */
+}
+  
+.btn-primary:hover {
+    background-color: #0b5383; /* Darker shade for hover effect */
+    border-color: #0b5383; /* Border color on hover */
+}
+
+.d-inline-flex {
+    align-items: center; /* Align items vertically in the center */
+    gap: 8px; /* Add space between the image and text (adjust as needed) */
+}
+  
+/* Optional: Control text size and spacing */
+.fs-5 {
+    margin-left: 5px; /* Space between image and text (adjust as needed) */
+    color: #0b5383;
+}
+
+/* Add a class to change the text color */
+.custom-text-color {
+    color: #0b5383; /* Replace with your desired color */
+}
+
+.c-item {
+    height: 1000px;
+}
+
+.c-image {
+    height: 100%;
+}
+
+.titre {
+    line-height: 2;
+    margin-left: 20px;
+    color: #0b5383;
+}
+
+li {
+    line-height: 2;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+b {
+    color: rgb(141, 14, 14);
+}
+
+p {
+    line-height: 2;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+}
+    
+@media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+}
+
