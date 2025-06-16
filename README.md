@@ -1,65 +1,77 @@
-Jesuites Website
-#### Video Demo: https://youtu.be/8UDuKFSmaiI?si=35JQTXrgspfXlnJQ
-#### Description:
+# Jesuites Website
 
-Project Overview: School Website Development
+### Video Demo: [Watch on YouTube](https://youtu.be/8UDuKFSmaiI?si=35JQTXrgspfXlnJQ)
 
-    Project Description:
+---
 
-        This project is a website dedicated to my childhood school, which I left two years ago to attend university. The primary goal is to provide general historical information about the school and highlight key details about my graduating class. Additionally, I have incorporated user interactivity by allowing visitors to create personal accounts and access their own user space.
+## Project Overview
 
-    Features and Functionality:
+This website is a tribute to my childhood school, which I left two years ago to attend university. The goal is to present general historical information about the school and to highlight key aspects of my graduating class. The site also includes user interactivity by allowing visitors to create accounts and access a personal user space.
 
-        Historical Information Page:
+---
 
-            A dedicated section outlining the history of the school and notable milestones.
+## Features
 
-        Promotion Showcase:
+### Historical Information
 
-            Highlights about my promotion, including events, achievements, and memorable moments.
+- A dedicated section detailing the school’s history and notable milestones.
 
-        User Accounts and Personal Space:
+### Promotion Showcase
 
-            Users can sign up, log in, and access personalized homepage.
+- Highlights from my graduating year, including events, achievements, and memorable moments.
 
-        Interactive User Interface:
+### User Accounts and Personal Dashboard
 
-            Responsive design and intuitive navigation using Bootstrap.
+- Users can register, log in, and access a personalized homepage.
 
-    Execution and Technologies:
+### Interactive Interface
 
-        The website is developed using skills acquired from the CS50 course, leveraging technologies such as:
+- Responsive layout and intuitive navigation built with Bootstrap.
 
-            Backend: Python and Flask for server-side logic.
+---
 
-            Frontend: HTML, CSS, and Jinja templates for dynamic content rendering.
+## Technologies Used
 
-            Styling: Bootstrap as the primary CSS framework for responsiveness and aesthetics.
+The website was developed using tools and skills acquired from the CS50 course, along with additional independent learning:
 
-            Database Management: SQLite for storing user data.
+- **Backend:** Python with Flask
+- **Frontend:** HTML, CSS, and Jinja templates
+- **Styling:** Bootstrap framework
+- **Database:** SQLite
 
-        The project is executed independently, reflecting both self-motivation and technical competence.
+---
 
-    New Skills and Research Areas:
+## Development Highlights
 
-        While I drew from foundational knowledge, I had to learn new skills to successfully complete this project, including:
+### New Skills Learned
 
-            Advanced Bootstrap Techniques: For enhanced layout and responsive design.
+- **Advanced Bootstrap Techniques**  
+  For enhanced layout structure and mobile responsiveness.
 
-            User Authentication Systems: Implementation of secure login and account management.
+- **User Authentication**  
+  Implementation of secure login and session management.
 
-            Database Design and Management: Structuring databases to handle user data efficiently.
+- **Database Design**  
+  Structuring and managing user data with efficiency.
 
-    Project Roles :
+---
 
-        I completed the project individually.
+## Project Role
 
-    Outcome Expectations:
+This was an individual project, planned and implemented independently from start to finish.
 
-        Good Outcome: A fully functional site with static historical information and basic user account creation.
+---
 
-        Better Outcome: In addition to the above, a polished user dashboard, responsive design, and initial user engagement.
+## Outcome Goals
 
-        Best Outcome: A feature-rich, visually appealing website with full user interactivity, secure account management, and regular content updates, potentially gaining recognition from the school community.
+| Outcome Level | Description |
+|---------------|-------------|
+| Good | A working site with historical content and user registration. |
+| Better | A polished, responsive dashboard with a smooth user experience. |
+| Best | A fully interactive, secure, and visually appealing platform with regular updates and potential engagement from the school community. |
 
-    This project not only serves as a homage to my school but also represents a significant milestone in my growth as a developer.
+---
+
+## Final Note
+
+This project serves both as a homage to my former school and as a demonstration of my growth as a developer. It reflects how I applied core programming knowledge to build something meaningful and technically sound.
